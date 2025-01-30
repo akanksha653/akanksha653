@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @akanksha653
 - 👀 I’m interested in C language 
 - 🌱 I’m currently learning DSA in C++
+  and web dev 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @nehamis2511gmail.com
 - 😄 Pronouns: ...
